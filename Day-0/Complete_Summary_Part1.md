@@ -25,3 +25,28 @@ Exclamations, questions and demands are not propositions since they cannot be de
 - Don't say that.
 
 ![Screenshot](https://github.com/gito12-algo/Proposition_Logic.git)
+
+A proposition is a statement that is either true or false.
+In other words, English sentences can be propositions, but not all are(for example, commands and questions can't be propositions).
+
+# Propositions Logic: 
+- Proposition
+- Propositional Variables(Boolean Variables)
+
+    - Each propositional will be represented by a propositional variable.
+    - Propositional varible are usually represented as lower-case letters, such as p,q,r,s etc
+    - Each variable can take one one of two values: true or false.
+
+Example, we can define some propositional variables to stans for the following English statements:
+
+A = The sun is shining
+B = I feel happy
+C = Cats are furry
+D = Elephants are heavy
+
+- Propositional Variables : variables that represent proposition: p,q,r,s eg.(Proposition p - "Today is Friday")
+- Truth value - T , F 
+
+# Note:
+In propositional Logic, we are NOT interested in English Statements.. But ONLY intersted in the Propositional Variables.P   
+
