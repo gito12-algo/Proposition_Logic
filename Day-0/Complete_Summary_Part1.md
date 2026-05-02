@@ -39,10 +39,10 @@ In other words, English sentences can be propositions, but not all are(for examp
 
 Example, we can define some propositional variables to stans for the following English statements:
 
-A = The sun is shining
-B = I feel happy
-C = Cats are furry
-D = Elephants are heavy
+- A = The sun is shining
+- B = I feel happy
+- C = Cats are furry
+- D = Elephants are heavy
 
 - Propositional Variables : variables that represent proposition: p,q,r,s eg.(Proposition p - "Today is Friday")
 - Truth value - T , F 
@@ -50,3 +50,38 @@ D = Elephants are heavy
 # Note:
 In propositional Logic, we are NOT interested in English Statements.. But ONLY intersted in the Propositional Variables.P   
 
+### We interchangeably use the following words.   Proposition  <-> Proposition Variable
+
+A proposition is just a symbolic variable whose value must be either True or False and which stands for an English statement that could be either true or false. The crucial point here is that a proposition must be either true or false.
+
+# Standard Logical Connectives(Operators):
+- NOT
+- AND
+- OR
+- Exclusive OR
+- Implication 
+- Bi-Implication
+- NAND
+- NOR
+
+## Note:
+New Proposition(statements) can be created from Existing  Proposition with the help of Logical Connectives.
+- A :This book is intersting.
+- B :I am staying at home. 
+This book is intersting, and i am staying at home.
+
+This book is not interesting.
+
+This book is interesting, or I am staying at home.
+
+This book is interesting, or I am staying at home but not both.
+
+If the book is interesting, then I am staying at home.
+
+# 1.Negation / NOT:
+        p :This book is interesting.
+What is the Negation of this proposition? 
+=> This book is NOT interesting.
+=> It is not the case that this book is interesting.
+
+![Folder Preview](p1.jpeg)
