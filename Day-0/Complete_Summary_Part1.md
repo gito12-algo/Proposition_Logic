@@ -84,4 +84,4 @@ What is the Negation of this proposition?
 => This book is NOT interesting.
 => It is not the case that this book is interesting.
 
-![Folder Preview](p1.jpeg)
+![Folder Preview]("C:\Users\Antor\OneDrive\Pictures\gate")
